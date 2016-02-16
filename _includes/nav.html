@@ -1,0 +1,43 @@
+<div class="navbar-spacer"></div>
+<nav class="navbar">
+  <div class="container">
+    <ul class="navbar-list">
+      <li class="navbar-item"><a class="navbar-link" href="/">Home</a></li>
+      <li class="navbar-item">
+        <a class="navbar-link" href="#" data-popover="#moreNavPopover"><i class="fa fa-indent fa-fw"></i>Blog</a>
+        <div id="moreNavPopover" class="popover">
+          <ul class="popover-list">
+            {% for post in site.posts %}
+            {% if post.categories contains 'code' %}
+            <li class="popover-item">
+              <a class="popover-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+            <li class="popover-item">
+              <a class="popover-link" href="/blog/all">All Posts..</a>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li class="navbar-item">
+        <a class="navbar-link" href="/code" data-popover="#codeNavPopover"><i class="fa fa-code-fork fa-fw"></i>Code</a>
+        <div id="codeNavPopover" class="popover">
+          <ul class="popover-list">
+            {% for post in site.posts %}
+            {% if !post.categories contains 'code' %}
+            <li class="popover-item">
+              <a class="popover-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+            <li class="popover-item">
+              <a class="popover-link" href="https://github.com/abuckenheimer">Github</a>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li class="navbar-item"><a class="navbar-link" href="/contact"><i class="fa fa-phone fa-fw"></i>Contact</a></li>
+    </ul>
+  </div>
+</nav>
