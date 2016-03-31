@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/abuck
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blog.buckenheimer.com
+  * I am abuck (https://keybase.io/abuck) on keybase.
+  * I have a public key with fingerprint 13BA 81C7 33E3 9DA0 00C1  DD09 D928 68A0 8057 B90A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120eeecfa083ed73739761c8174dafd6a933f67a602bdd56c32f53a5cf699544a8b0a",
+            "fingerprint": "13ba81c733e39da000c1dd09d92868a08057b90a",
+            "host": "keybase.io",
+            "key_id": "d92868a08057b90a",
+            "kid": "0101582492ac4966294705c7cf94638f9a5ffd7347092cdffc39c37206ad3a31fa0e0a",
+            "uid": "c1d9fddf54edbce59799014214bed119",
+            "username": "abuck"
+        },
+        "service": {
+            "hostname": "blog.buckenheimer.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1459394080,
+    "expire_in": 157680000,
+    "prev": "134d918f9e89d54935045f3062087ca4f26559e35b02ca1cf2f1ebf349856cd3",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMN1AnicbVJtUFRVGN4VwpE0t2XMsEi9CakRc7/vPZAMGSiIIWRpUBPde865y7LL
+3WU/EJaPAdFJQ2GmgqaAxkaJMkIks5Ah4iOmUUPUlFYhMgsDCwdqBCGc7u7ov36d
+Oe95nud93uc9vUsCdMF679qsQ6U724L1Z7rq3Lod/9asKiRkGyogogsJC/Yf2Iqw
+05VpMSMimiApmsQYQ0UiRQYjgREYIPAUFCmBRZKCeAkwjMILEk/SMkIcDxla4RiJ
+gwoPAMeykiiTEhFJKGbVhB12h1l1abIUI0siBQWGwQxAEkmSkEKIBAjQIi9qvUhO
+kIGfmGVz+hiaOVly4iizTatpl0y/vf/B3/dNUpxIs4CWIAt4ngasQHJQgApgeUZU
+gMQpijaOVgU0RIoCGQAZgSZ5CTESQ2nzYr+c2y+nuQMKQgrHYiRDzAEBAJJiaYqV
+MaIo4AM6sUOVcrCGlmQ3tBDFkYRWyjND7EvVN8a9Z9lqM0X5IFjNwuYc7IiCthxN
+we6wuWzQZtUgWS6XPdqn4Cqw+yi7sJx5TyxTNqtIC1Mj5GGH02xTiWhKQ0KX2adO
+sRxgAKslEkngfLvZgTPNPgQn8KIWM+lrg/P8K2ARoLQksAgQxwKGI1lOYUieJkUB
+SqxC8xwHMMPJJA0lCiq0QmFZYVggaltGDOEbL1e1EdGCZlMyaZJOs0mVXG4HJoq7
+u14L1OmDdUEPLPB9Ml3wIsP9r/fL7qXzBmUSTR83GD0P2+s+0EeIpTvSy3al5f4m
+nP2rO+HBoqmOiXXFxhDPBvWjtNmM6ot39l/7o/PDSF3LnblWdKGmaVV/6shIhSms
+hC4PLH3ru838yI3Rhau/ooRAMS6paNnzr0f1xEwYHfufaGg/knzsAKxvmjrfWRte
+ZsUxbVefm78YG7u27NkFhjbn0MfTueclbsr+j2VjVdepQ56733be2Fp1q6VAUfOf
+XJ//fcuJku70t70/iJsPJl4oPLGmrmj8lcuffnFy+e3YcvHwqyHVzdevdLU3lczd
+vpQdOuHd16m8N2wVoUn5BKXWtnria27uOfN4vPvzK2kr1W2P2R4VjtmTvu7oWRcQ
+uMm7e+CpnslrFfIW4d2E0yFHU+MqEk9vSCuIGWya6TvVOuQdXPPrYPW+hwLnXooY
+N84khPQ3J78QHrDoJjE2mbw0tOcRIz3e4DpJ/72k6e7YM296Ni0vueyt7Q1feiBj
+OKxjukUXPBtfGV8v9w//Hrriz7qZF4eKqW1BLzfsnDRl9DkiKnWL92SHRcwPXJq9
+lWBc/xmZlFhy1pO0esSTE1SXdPB4R2lKTlGa440tUT/3H/0me7SRaR4L6refCx0Q
+vzToDOe2Lwxr3PhT+2wHXHn98Ljl6dJ36DjPaGKKd6TMWr8iffHWZd7KKgx7Ry1H
+3t+bUu9srO/U/9inv6qWu7cb/gPmS8Rj
+=v+6H
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/abuck
+
+==================================================================
